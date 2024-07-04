@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Quan
 - 👀 I’m interested in Algorithm, Web  Development, Mobile Development and Machine Learning
-- 🌱 I’m currently pursuing my Master Degree in IT at UNSW and Deving at ANSCENTER
-- 💞️ Was dev-ing at Avantologie.com, Alstrada.com, recruitgenius.ai, Eyeq.tech  and anscenter.com.au
+- 🌱 I’m currently pursuing my Master's Degree in IT at UNSW and Deving at ANSCENTER
 - 📫 reach me on minhquan0902@gmail.com
 
 <!---
