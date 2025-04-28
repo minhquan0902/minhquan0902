@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quan
-- 👀 I’m interested in Algorithm, Web  Development, Mobile Development and Machine Learning
+- 👀 I’m interested in Algorithm, Software Development and Artificial Intelligence
 - 🌱 Currently building and managing projects to apply AI and tech to education @ Singapore Institute of Technology
 - 📫 Reach me at minhquan0902@gmail.com
 
